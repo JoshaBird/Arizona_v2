@@ -42,4 +42,4 @@ next-env.d.ts
 
 # local data files
 data/submissions.json
-
+supabase-data-export/edge-function-get-maps-key-test.json
