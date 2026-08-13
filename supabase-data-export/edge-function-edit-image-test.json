@@ -1,0 +1,13 @@
+{
+  "function": "edit-image",
+  "testedAt": "2025-10-02T16:49:16.401Z",
+  "testData": {
+    "image": "test",
+    "prompt": "test prompt"
+  },
+  "response": null,
+  "error": {
+    "name": "FunctionsHttpError",
+    "context": {}
+  }
+}

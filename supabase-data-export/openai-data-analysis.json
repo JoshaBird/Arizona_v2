@@ -1,0 +1,513 @@
+{
+  "exportedAt": "2025-10-02T16:49:21.533Z",
+  "description": "OpenAI API interactions and generated images",
+  "totalInteractions": 38,
+  "interactions": [
+    {
+      "id": "aa74eb21-d260-4ec0-80f6-01748e12b44c",
+      "timestamp": "2025-06-15T21:38:00.851865+00:00",
+      "prompt": "Hardy, heat-tolerant landscape with Yucca, Purple fountain grass, Blanket flower, Russian sage, Sedum, and gravel or decomposed granite accents., small putting green in front yard",
+      "originalImage": "https://knlvxeujgojelrhoekia.supabase.co/storage/v1/object/public/user-images/original_1750023479558_streetview-1750023479557.jpg",
+      "generatedImage": "https://knlvxeujgojelrhoekia.supabase.co/storage/v1/object/public/user-images/result_1750023602037.png",
+      "userContact": {
+        "name": "Bob",
+        "email": "mk@mk.com",
+        "phone": "1231231234",
+        "address": "9 Gene Place, White Plains, NY, USA"
+      }
+    },
+    {
+      "id": "4e3ac022-d8a4-48c0-a4e3-73486e1761c0",
+      "timestamp": "2025-06-24T21:20:43.49085+00:00",
+      "prompt": "Symmetrical, manicured, elegant layout with Crape myrtle or Magnolia, Azaleas or camellias, Boxwood hedge, seasonal color planters, and flagstone walkway.",
+      "originalImage": "https://knlvxeujgojelrhoekia.supabase.co/storage/v1/object/public/user-images/original_1750800042650_streetview-1750800042649.jpg",
+      "generatedImage": "https://knlvxeujgojelrhoekia.supabase.co/storage/v1/object/public/user-images/result_1750800111147.png",
+      "userContact": {
+        "name": null,
+        "email": null,
+        "phone": null,
+        "address": "114 Westmore Court, Jackson, MS, USA"
+      }
+    },
+    {
+      "id": "1df28bbf-51ef-407c-9233-aa0b074debfe",
+      "timestamp": "2025-06-15T21:47:12.946358+00:00",
+      "prompt": "Shady, serene, naturalized garden with Oakleaf hydrangea, Southern wood fern, Coral bells, Dogwood or redbud, River birch, and pine needle mulch., small koi pond in front of house",
+      "originalImage": "https://knlvxeujgojelrhoekia.supabase.co/storage/v1/object/public/user-images/original_1750024031356_crappy%20house.jpg",
+      "generatedImage": "https://knlvxeujgojelrhoekia.supabase.co/storage/v1/object/public/user-images/result_1750024098358.png",
+      "userContact": {
+        "name": null,
+        "email": null,
+        "phone": null,
+        "address": null
+      }
+    },
+    {
+      "id": "a60c9542-f298-4327-999e-673b05ebb0df",
+      "timestamp": "2025-06-23T17:12:33.706091+00:00",
+      "prompt": "Hardy, heat-tolerant landscape with Yucca, Purple fountain grass, Blanket flower, Russian sage, Sedum, and gravel or decomposed granite accents., Add a white bench and above ground stone hot tub in the front yard",
+      "originalImage": "https://knlvxeujgojelrhoekia.supabase.co/storage/v1/object/public/user-images/original_1750698752318_streetview-1750698752317.jpg",
+      "generatedImage": "https://knlvxeujgojelrhoekia.supabase.co/storage/v1/object/public/user-images/result_1750698845555.png",
+      "userContact": {
+        "name": null,
+        "email": null,
+        "phone": null,
+        "address": "9 Gene Place, White Plains, NY, USA"
+      }
+    },
+    {
+      "id": "9d8dd574-3c9b-442d-8bec-94bb545e6cda",
+      "timestamp": "2025-06-15T21:58:23.14674+00:00",
+      "prompt": "Lush, informal, storybook garden with Hydrangeas, Daylilies, Bee balm, Garden phlox, Boxwood border, and climbing roses or clematis on trellis., in ground, hot tub with natural stone coping",
+      "originalImage": "https://knlvxeujgojelrhoekia.supabase.co/storage/v1/object/public/user-images/original_1750024702210_streetview-1750024702209.jpg",
+      "generatedImage": "https://knlvxeujgojelrhoekia.supabase.co/storage/v1/object/public/user-images/result_1750024786104.png",
+      "userContact": {
+        "name": null,
+        "email": null,
+        "phone": null,
+        "address": "9 Gene Place, White Plains, NY, USA"
+      }
+    },
+    {
+      "id": "a67e66b8-e40b-4eed-974f-0a113485bda2",
+      "timestamp": "2025-06-16T18:25:43.561967+00:00",
+      "prompt": "Lush, informal, storybook garden with Hydrangeas, Daylilies, Bee balm, Garden phlox, Boxwood border, and climbing roses or clematis on trellis., heavy on flowering plants like hydrangeas please",
+      "originalImage": "https://knlvxeujgojelrhoekia.supabase.co/storage/v1/object/public/user-images/original_1750098342191_streetview-1750098342190.jpg",
+      "generatedImage": "https://knlvxeujgojelrhoekia.supabase.co/storage/v1/object/public/user-images/result_1750098432886.png",
+      "userContact": {
+        "name": null,
+        "email": null,
+        "phone": null,
+        "address": "2335 Twin Lakes Circle, Jackson, MS, USA"
+      }
+    },
+    {
+      "id": "d619cd9f-ef02-4cdd-9260-201c4495e97d",
+      "timestamp": "2025-06-24T21:14:09.952134+00:00",
+      "prompt": "Colorful, layered, naturalistic planting with Purple coneflower, Black-eyed Susan, Butterfly weed, Blue sage, Eastern redbud, and native grasses like little bluestem.",
+      "originalImage": "https://knlvxeujgojelrhoekia.supabase.co/storage/v1/object/public/user-images/original_1750799646291_IMG_8472.JPG",
+      "generatedImage": "https://knlvxeujgojelrhoekia.supabase.co/storage/v1/object/public/user-images/result_1750799721904.png",
+      "userContact": {
+        "name": null,
+        "email": null,
+        "phone": null,
+        "address": null
+      }
+    },
+    {
+      "id": "95f00bd8-5573-43c8-a863-3ceb225f7319",
+      "timestamp": "2025-06-17T05:12:54.251427+00:00",
+      "prompt": "Colorful, layered, naturalistic planting with Purple coneflower, Black-eyed Susan, Butterfly weed, Blue sage, Eastern redbud, and native grasses like little bluestem.",
+      "originalImage": "https://knlvxeujgojelrhoekia.supabase.co/storage/v1/object/public/user-images/original_1750137172800_streetview-1750137172798.jpg",
+      "generatedImage": "https://knlvxeujgojelrhoekia.supabase.co/storage/v1/object/public/user-images/result_1750137245794.png",
+      "userContact": {
+        "name": null,
+        "email": null,
+        "phone": null,
+        "address": "114 Westmore Ct, Jackson, MS, USA"
+      }
+    },
+    {
+      "id": "33ef2b92-d9e8-4f71-b82c-77ca7a2d5c36",
+      "timestamp": "2025-06-19T18:51:20.320859+00:00",
+      "prompt": "Shady, serene, naturalized garden with Oakleaf hydrangea, Southern wood fern, Coral bells, Dogwood or redbud, River birch, and pine needle mulch., A nice stone hot tub in the front lawn",
+      "originalImage": "https://knlvxeujgojelrhoekia.supabase.co/storage/v1/object/public/user-images/original_1750359078613_crappy%20house.jpg",
+      "generatedImage": "https://knlvxeujgojelrhoekia.supabase.co/storage/v1/object/public/user-images/result_1750359170340.png",
+      "userContact": {
+        "name": null,
+        "email": null,
+        "phone": null,
+        "address": null
+      }
+    },
+    {
+      "id": "c9c6dfa3-b923-443d-af32-6686870ecd45",
+      "timestamp": "2025-06-24T21:24:23.103985+00:00",
+      "prompt": "Clean lines, evergreen structure, seasonal color with Dwarf yaupon holly, Knock Out® roses, Autumn sage, Liriope, Muhly grass, and mulch or pine straw ground cover.",
+      "originalImage": "https://knlvxeujgojelrhoekia.supabase.co/storage/v1/object/public/user-images/original_1750800262301_streetview-1750800262300.jpg",
+      "generatedImage": "https://knlvxeujgojelrhoekia.supabase.co/storage/v1/object/public/user-images/result_1750800323233.png",
+      "userContact": {
+        "name": null,
+        "email": null,
+        "phone": null,
+        "address": "1101 Hall Mark Drive, Jackson, MS, USA"
+      }
+    },
+    {
+      "id": "72c61a52-e112-451d-bff7-2ed9f739049f",
+      "timestamp": "2025-06-24T21:16:35.377412+00:00",
+      "prompt": "Shady, serene, naturalized garden with Oakleaf hydrangea, Southern wood fern, Coral bells, Dogwood or redbud, River birch, and pine needle mulch.",
+      "originalImage": "https://knlvxeujgojelrhoekia.supabase.co/storage/v1/object/public/user-images/original_1750799792635_IMG_8475.JPG",
+      "generatedImage": "https://knlvxeujgojelrhoekia.supabase.co/storage/v1/object/public/user-images/result_1750799860036.png",
+      "userContact": {
+        "name": null,
+        "email": null,
+        "phone": null,
+        "address": null
+      }
+    },
+    {
+      "id": "3435bc92-cd25-44fe-b001-83bdc0c4467c",
+      "timestamp": "2025-06-24T21:34:44.813718+00:00",
+      "prompt": "Hardy, heat-tolerant landscape with Yucca, Purple fountain grass, Blanket flower, Russian sage, Sedum, and gravel or decomposed granite accents.",
+      "originalImage": "https://knlvxeujgojelrhoekia.supabase.co/storage/v1/object/public/user-images/original_1750800883673_streetview-1750800883673.jpg",
+      "generatedImage": "https://knlvxeujgojelrhoekia.supabase.co/storage/v1/object/public/user-images/result_1750800972173.png",
+      "userContact": {
+        "name": null,
+        "email": null,
+        "phone": null,
+        "address": "114 Westmore Court, Jackson, MS, USA"
+      }
+    },
+    {
+      "id": "c46742ae-3e46-4175-8c31-a57872f520aa",
+      "timestamp": "2025-06-24T21:27:04.574796+00:00",
+      "prompt": "Clean lines, evergreen structure, seasonal color with Dwarf yaupon holly, Knock Out® roses, Autumn sage, Liriope, Muhly grass, and mulch or pine straw ground cover.",
+      "originalImage": "https://knlvxeujgojelrhoekia.supabase.co/storage/v1/object/public/user-images/original_1750800421919_IMG_8472.JPG",
+      "generatedImage": "https://knlvxeujgojelrhoekia.supabase.co/storage/v1/object/public/user-images/result_1750800496419.png",
+      "userContact": {
+        "name": null,
+        "email": null,
+        "phone": null,
+        "address": null
+      }
+    },
+    {
+      "id": "46de2e20-88dc-48a8-b5f4-0a8186c0bd24",
+      "timestamp": "2025-06-24T22:58:35.075735+00:00",
+      "prompt": "Lush, informal, storybook garden with Hydrangeas, Daylilies, Bee balm, Garden phlox, Boxwood border, and climbing roses or clematis on trellis., stone hot tub in the front",
+      "originalImage": "https://knlvxeujgojelrhoekia.supabase.co/storage/v1/object/public/user-images/original_1750805914120_streetview-1750805914120.jpg",
+      "generatedImage": "https://knlvxeujgojelrhoekia.supabase.co/storage/v1/object/public/user-images/result_1750805987382.png",
+      "userContact": {
+        "name": null,
+        "email": null,
+        "phone": null,
+        "address": "9 Gene Place, White Plains, NY, USA"
+      }
+    },
+    {
+      "id": "afb15446-06d5-443d-9569-90378b428f53",
+      "timestamp": "2025-06-26T14:47:51.301825+00:00",
+      "prompt": "Colorful, layered, naturalistic planting with Purple coneflower, Black-eyed Susan, Butterfly weed, Blue sage, Eastern redbud, and native grasses like little bluestem.",
+      "originalImage": "https://knlvxeujgojelrhoekia.supabase.co/storage/v1/object/public/user-images/original_1750949270032_streetview-1750949270031.jpg",
+      "generatedImage": "https://knlvxeujgojelrhoekia.supabase.co/storage/v1/object/public/user-images/result_1750949359170.png",
+      "userContact": {
+        "name": null,
+        "email": null,
+        "phone": null,
+        "address": "1011 Hall Mark Drive, Jackson, MS, USA"
+      }
+    },
+    {
+      "id": "baa0fdef-573e-4ea3-bb8a-504614379e77",
+      "timestamp": "2025-06-26T16:50:29.654679+00:00",
+      "prompt": "Colorful, layered, naturalistic planting with Purple coneflower, Black-eyed Susan, Butterfly weed, Blue sage, Eastern redbud, and native grasses like little bluestem.",
+      "originalImage": "https://knlvxeujgojelrhoekia.supabase.co/storage/v1/object/public/user-images/original_1750956628776_streetview-1750956628774.jpg",
+      "generatedImage": "https://knlvxeujgojelrhoekia.supabase.co/storage/v1/object/public/user-images/result_1750956682430.png",
+      "userContact": {
+        "name": null,
+        "email": null,
+        "phone": null,
+        "address": "114 Westmore Court, Jackson, MS, USA"
+      }
+    },
+    {
+      "id": "dbc55e2e-7a12-4536-b95d-5c60116451ee",
+      "timestamp": "2025-06-26T16:55:58.169721+00:00",
+      "prompt": "Clean lines, evergreen structure, seasonal color with Dwarf yaupon holly, Knock Out® roses, Autumn sage, Liriope, Muhly grass, and mulch or pine straw ground cover.",
+      "originalImage": "https://knlvxeujgojelrhoekia.supabase.co/storage/v1/object/public/user-images/original_1750956957416_streetview-1750956957415.jpg",
+      "generatedImage": "https://knlvxeujgojelrhoekia.supabase.co/storage/v1/object/public/user-images/result_1750957005781.png",
+      "userContact": {
+        "name": null,
+        "email": null,
+        "phone": null,
+        "address": "114 Westmore Court, Jackson, MS, USA"
+      }
+    },
+    {
+      "id": "a0d57312-0197-4dc3-95a2-8920f27ad6b1",
+      "timestamp": "2025-06-27T17:58:15.677157+00:00",
+      "prompt": "Symmetrical, manicured, elegant layout with Crape myrtle or Magnolia, Azaleas or camellias, Boxwood hedge, seasonal color planters, and flagstone walkway.",
+      "originalImage": "https://knlvxeujgojelrhoekia.supabase.co/storage/v1/object/public/user-images/original_1751047094177_streetview-1751047094176.jpg",
+      "generatedImage": "https://knlvxeujgojelrhoekia.supabase.co/storage/v1/object/public/user-images/result_1751047174051.png",
+      "userContact": {
+        "name": null,
+        "email": null,
+        "phone": null,
+        "address": "114 Westmore Ct, Jackson, MS, USA"
+      }
+    },
+    {
+      "id": "ca1d6bf9-3a74-4eb7-b016-7880503dd83d",
+      "timestamp": "2025-06-27T18:50:38.486105+00:00",
+      "prompt": "Create a front yard or backyard landscape inspired by the Low Maintenance Southern Garden style.\n\nCore Theme: Designed for homeowners who value curb appeal with minimal effort.\nDesign Intent: Tidy, structured with evergreen backbone and seasonal color. Minimal pruning, drought tolerance, and weed suppression.\nPlant Palette: Dwarf Yaupon Holly, Knock Out® Roses, Autumn Sage, Liriope, Muhly Grass, Pine straw or mulch.\nColor Profile: Spring/summer – fuchsia, pink, purple; Fall/winter – evergreen + bronze grasses.\nTextures & Layers: Low-to-medium height; structured layering (liriope → flowering accents → evergreens).\nHardscape: Clean-edged beds, mulch or pine straw, optional stepping stones or planters.\nRegional Adaptations: Sun – salvia/muhly; Shade – hydrangea/abelia; Slope – liriope for cover.\nPrompt: Emphasize neat borders, evergreen structure, and seasonal color with clean lines and minimal maintenance.",
+      "originalImage": "https://knlvxeujgojelrhoekia.supabase.co/storage/v1/object/public/user-images/original_1751050237578_streetview-1751050237577.jpg",
+      "generatedImage": "https://knlvxeujgojelrhoekia.supabase.co/storage/v1/object/public/user-images/result_1751050334733.png",
+      "userContact": {
+        "name": null,
+        "email": null,
+        "phone": null,
+        "address": "9 Vose Street, Reseda, CA, USA"
+      }
+    },
+    {
+      "id": "019d6813-3eb8-4533-bbcf-41d7fe908e93",
+      "timestamp": "2025-07-09T00:54:55.204534+00:00",
+      "prompt": "Create a front or backyard landscape inspired by the Mississippi Cottage Garden style.\n\nCore Theme: Whimsical, floral abundance with classic Southern charm.\nDesign Intent: Lush, informal layout with nostalgic blooms and soft edges.\nPlant Palette: Hydrangeas, Daylilies, Bee Balm, Garden Phlox, Boxwood, Climbing Roses or Clematis.\nColor Profile: Pinks, purples, soft orange, pale blue.\nTextures & Layers: Trellised accents, flowering layers, evergreen border.\nHardscape: Trellis, arbor, mulch, stepping stones.\nRegional Adaptations: Sun – daylilies/phlox; Shade – hydrangeas/roses; Small – vertical accents.\nPrompt: Embrace layered blooms, vertical interest, and a loose structure to capture a storybook cottage feel., use 40% grouped flower cover, the rest either grass or Low ground cover; include a bench and seating area - maybe with a fountain",
+      "originalImage": "https://knlvxeujgojelrhoekia.supabase.co/storage/v1/object/public/user-images/original_1752022494379_streetview-1752022494378.jpg",
+      "generatedImage": "https://knlvxeujgojelrhoekia.supabase.co/storage/v1/object/public/user-images/result_1752022700182.png",
+      "userContact": {
+        "name": null,
+        "email": null,
+        "phone": null,
+        "address": "114 Westmore Court, Jackson, MS, USA"
+      }
+    },
+    {
+      "id": "dc21a7a1-dc35-44c0-abdf-273b063edc13",
+      "timestamp": "2025-07-08T14:25:43.886733+00:00",
+      "prompt": "Create a front or backyard landscape inspired by the Mississippi Cottage Garden style.\n\nCore Theme: Whimsical, floral abundance with classic Southern charm.\nDesign Intent: Lush, informal layout with nostalgic blooms and soft edges.\nPlant Palette: Hydrangeas, Daylilies, Bee Balm, Garden Phlox, Boxwood, Climbing Roses or Clematis.\nColor Profile: Pinks, purples, soft orange, pale blue.\nTextures & Layers: Trellised accents, flowering layers, evergreen border.\nHardscape: Trellis, arbor, mulch, stepping stones.\nRegional Adaptations: Sun – daylilies/phlox; Shade – hydrangeas/roses; Small – vertical accents.\nPrompt: Embrace layered blooms, vertical interest, and a loose structure to capture a storybook cottage feel.",
+      "originalImage": "https://knlvxeujgojelrhoekia.supabase.co/storage/v1/object/public/user-images/original_1751984742736_streetview-1751984742735.jpg",
+      "generatedImage": "https://knlvxeujgojelrhoekia.supabase.co/storage/v1/object/public/user-images/result_1751984891730.png",
+      "userContact": {
+        "name": null,
+        "email": null,
+        "phone": null,
+        "address": "9 Gene Place, White Plains, NY, USA"
+      }
+    },
+    {
+      "id": "05af1969-c967-48f7-92cd-f391ca3b0e63",
+      "timestamp": "2025-07-15T00:34:42.750837+00:00",
+      "prompt": "Generate a landscape design inspired by the Woodland Native Retreat style.\n\nCore Theme: A calm, layered garden inspired by Mississippi’s woodlands.\nDesign Intent: Forest floor feel with native layers and textural interest.\nPlant Palette: Oakleaf Hydrangea, Southern Wood Fern, Coral Bells, Dogwood or Redbud, River Birch.\nColor Profile: Greens, whites, pale purples, fall bronzes.\nTextures & Layers: Canopy → shrub → fern/coral bells.\nHardscape: Mulch paths, stone, bird baths.\nRegional Adaptations: Shade – ferns/coral bells; Dappled – redbud/hydrangea; Large – river birch.\nPrompt: Mimic a forest understory with organic layers, native shade-tolerant plants, and calming hardscape.",
+      "originalImage": "https://knlvxeujgojelrhoekia.supabase.co/storage/v1/object/public/user-images/original_1752539679426_IMG_8475-preview.JPG",
+      "generatedImage": "https://knlvxeujgojelrhoekia.supabase.co/storage/v1/object/public/user-images/result_1752540119615.png",
+      "userContact": {
+        "name": null,
+        "email": null,
+        "phone": null,
+        "address": null
+      }
+    },
+    {
+      "id": "02ec9bb3-1fb7-4c4f-840c-2cd243acc6b5",
+      "timestamp": "2025-07-21T21:45:13.276805+00:00",
+      "prompt": "Create a front yard or backyard landscape inspired by the Low Maintenance Southern Garden style.\n\nCore Theme: Designed for homeowners who value curb appeal with minimal effort.\nDesign Intent: Tidy, structured with evergreen backbone and seasonal color. Minimal pruning, drought tolerance, and weed suppression.\nPlant Palette: Dwarf Yaupon Holly, Knock Out® Roses, Autumn Sage, Liriope, Muhly Grass, Pine straw or mulch.\nColor Profile: Spring/summer – fuchsia, pink, purple; Fall/winter – evergreen + bronze grasses.\nTextures & Layers: Low-to-medium height; structured layering (liriope → flowering accents → evergreens).\nHardscape: Clean-edged beds, mulch or pine straw, optional stepping stones or planters.\nRegional Adaptations: Sun – salvia/muhly; Shade – hydrangea/abelia; Slope – liriope for cover.\nPrompt: Emphasize neat borders, evergreen structure, and seasonal color with clean lines and minimal maintenance.",
+      "originalImage": "https://knlvxeujgojelrhoekia.supabase.co/storage/v1/object/public/user-images/original_1753134311963_crappy%20house.jpg",
+      "generatedImage": "https://knlvxeujgojelrhoekia.supabase.co/storage/v1/object/public/user-images/result_1753134454428.png",
+      "userContact": {
+        "name": null,
+        "email": null,
+        "phone": null,
+        "address": null
+      }
+    },
+    {
+      "id": "3550e91f-2658-43da-8052-1bf8b6cd5cef",
+      "timestamp": "2025-07-14T21:08:54.651228+00:00",
+      "prompt": "Create a front yard landscape inspired by the Southern Charm Front Yard style.\n\nCore Theme: Traditional Southern curb appeal with structure and symmetry.\nDesign Intent: Elegant layout with ornamental trees, evergreens, and seasonal color.\nPlant Palette: Crape Myrtle or Magnolia ‘Little Gem’, Azaleas or Camellias, Boxwood, Pansies or Petunias.\nColor Profile: Greens, whites, pinks, reds with annual pops.\nTextures & Layers: Tree → shrub → low hedge layering.\nHardscape: Flagstone paths, planters, formal layout.\nRegional Adaptations: Sunny – crape myrtle/azalea; Shade – magnolia/camellia.\nPrompt: Emphasize symmetry, structured layering, and polished materials for a timeless front yard., no rounded box hedges",
+      "originalImage": "https://knlvxeujgojelrhoekia.supabase.co/storage/v1/object/public/user-images/original_1752527332730_streetview-1752527332729.jpg",
+      "generatedImage": "https://knlvxeujgojelrhoekia.supabase.co/storage/v1/object/public/user-images/result_1752527604536.png",
+      "userContact": {
+        "name": null,
+        "email": null,
+        "phone": null,
+        "address": "114 Westmore Court, Jackson, MS, USA"
+      }
+    },
+    {
+      "id": "bab5b0f6-140c-412e-8f83-96609dff822e",
+      "timestamp": "2025-07-14T21:43:15.714452+00:00",
+      "prompt": "Create a front or backyard landscape inspired by the Mississippi Cottage Garden style.\n\nCore Theme: Whimsical, floral abundance with classic Southern charm.\nDesign Intent: Lush, informal layout with nostalgic blooms and soft edges.\nPlant Palette: Hydrangeas, Daylilies, Bee Balm, Garden Phlox, Boxwood, Climbing Roses or Clematis.\nColor Profile: Pinks, purples, soft orange, pale blue.\nTextures & Layers: Trellised accents, flowering layers, evergreen border.\nHardscape: Trellis, arbor, mulch, stepping stones.\nRegional Adaptations: Sun – daylilies/phlox; Shade – hydrangeas/roses; Small – vertical accents.\nPrompt: Embrace layered blooms, vertical interest, and a loose structure to capture a storybook cottage feel.",
+      "originalImage": "https://knlvxeujgojelrhoekia.supabase.co/storage/v1/object/public/user-images/original_1752529393819_streetview-1752529393817.jpg",
+      "generatedImage": "https://knlvxeujgojelrhoekia.supabase.co/storage/v1/object/public/user-images/result_1752532070196.png",
+      "userContact": {
+        "name": null,
+        "email": null,
+        "phone": null,
+        "address": "114 Westmore Court, Jackson, MS, USA"
+      }
+    },
+    {
+      "id": "e528c274-b59f-4232-84e0-2696b10c2a89",
+      "timestamp": "2025-07-14T21:29:45.927738+00:00",
+      "prompt": "Create a front or backyard landscape inspired by the Mississippi Cottage Garden style.\n\nCore Theme: Whimsical, floral abundance with classic Southern charm.\nDesign Intent: Lush, informal layout with nostalgic blooms and soft edges.\nPlant Palette: Hydrangeas, Daylilies, Bee Balm, Garden Phlox, Boxwood, Climbing Roses or Clematis.\nColor Profile: Pinks, purples, soft orange, pale blue.\nTextures & Layers: Trellised accents, flowering layers, evergreen border.\nHardscape: Trellis, arbor, mulch, stepping stones.\nRegional Adaptations: Sun – daylilies/phlox; Shade – hydrangeas/roses; Small – vertical accents.\nPrompt: Embrace layered blooms, vertical interest, and a loose structure to capture a storybook cottage feel.",
+      "originalImage": "https://knlvxeujgojelrhoekia.supabase.co/storage/v1/object/public/user-images/original_1752528584996_streetview-1752528584994.jpg",
+      "generatedImage": "https://knlvxeujgojelrhoekia.supabase.co/storage/v1/object/public/user-images/result_1752528863095.png",
+      "userContact": {
+        "name": null,
+        "email": null,
+        "phone": null,
+        "address": "324 Sunbury Way, Madison, MS, USA"
+      }
+    },
+    {
+      "id": "f5a93572-4c19-4926-b8ca-1adb1b2dbf6f",
+      "timestamp": "2025-07-14T21:37:27.733428+00:00",
+      "prompt": "Generate a landscape design inspired by the Woodland Native Retreat style.\n\nCore Theme: A calm, layered garden inspired by Mississippi’s woodlands.\nDesign Intent: Forest floor feel with native layers and textural interest.\nPlant Palette: Oakleaf Hydrangea, Southern Wood Fern, Coral Bells, Dogwood or Redbud, River Birch.\nColor Profile: Greens, whites, pale purples, fall bronzes.\nTextures & Layers: Canopy → shrub → fern/coral bells.\nHardscape: Mulch paths, stone, bird baths.\nRegional Adaptations: Shade – ferns/coral bells; Dappled – redbud/hydrangea; Large – river birch.\nPrompt: Mimic a forest understory with organic layers, native shade-tolerant plants, and calming hardscape.",
+      "originalImage": "https://knlvxeujgojelrhoekia.supabase.co/storage/v1/object/public/user-images/original_1752529045215_IMG_8475-preview.JPG",
+      "generatedImage": "https://knlvxeujgojelrhoekia.supabase.co/storage/v1/object/public/user-images/result_1752529120933.png",
+      "userContact": {
+        "name": null,
+        "email": null,
+        "phone": null,
+        "address": null
+      }
+    },
+    {
+      "id": "2975c3bc-fd2d-4a28-83ae-6737672b8a0b",
+      "timestamp": "2025-07-21T21:43:32.640395+00:00",
+      "prompt": "Create a front or backyard landscape inspired by the Mississippi Cottage Garden style.\n\nCore Theme: Whimsical, floral abundance with classic Southern charm.\nDesign Intent: Lush, informal layout with nostalgic blooms and soft edges.\nPlant Palette: Hydrangeas, Daylilies, Bee Balm, Garden Phlox, Boxwood, Climbing Roses or Clematis.\nColor Profile: Pinks, purples, soft orange, pale blue.\nTextures & Layers: Trellised accents, flowering layers, evergreen border.\nHardscape: Trellis, arbor, mulch, stepping stones.\nRegional Adaptations: Sun – daylilies/phlox; Shade – hydrangeas/roses; Small – vertical accents.\nPrompt: Embrace layered blooms, vertical interest, and a loose structure to capture a storybook cottage feel.",
+      "originalImage": "https://knlvxeujgojelrhoekia.supabase.co/storage/v1/object/public/user-images/original_1753134211266_crappy%20house.jpg",
+      "generatedImage": "https://knlvxeujgojelrhoekia.supabase.co/storage/v1/object/public/user-images/result_1753134281556.png",
+      "userContact": {
+        "name": null,
+        "email": null,
+        "phone": null,
+        "address": null
+      }
+    },
+    {
+      "id": "a0c6c879-620c-4f7a-b96e-08190cb51877",
+      "timestamp": "2025-07-21T21:49:48.887674+00:00",
+      "prompt": "Generate a front or backyard landscape inspired by the Pollinator Friendly Mississippi Mix.\n\nCore Theme: Support native bees, butterflies, and birds through naturalistic plantings.\nDesign Intent: Colorful, layered garden mimicking meadows and woodland edges.\nPlant Palette: Purple Coneflower, Black-eyed Susan, Butterfly Weed, Blue Sage, Eastern Redbud, Little Bluestem.\nColor Profile: Purples, yellows, oranges, blues; seasonal change from spring to fall.\nTextures & Layers: Vertical variation from canopy to wildflowers and grasses.\nHardscape: Natural mulch, logs, gravel, stepping stones.\nRegional Adaptations: Sun – wildflowers; Shade – redbud; Urban – neater borders.\nPrompt: Layer wildflowers, grasses, and native trees with natural materials and flowing forms for ecological richness.\n\nMost importantly, please keep the house and structure the exact same. only the above changes to the front yard and landscape areas.",
+      "originalImage": "https://knlvxeujgojelrhoekia.supabase.co/storage/v1/object/public/user-images/original_1753134587541_crappy%20house.jpg",
+      "generatedImage": "https://knlvxeujgojelrhoekia.supabase.co/storage/v1/object/public/user-images/result_1753134654350.png",
+      "userContact": {
+        "name": null,
+        "email": null,
+        "phone": null,
+        "address": null
+      }
+    },
+    {
+      "id": "424100a5-fe9a-4795-84a2-588aa68dd4f6",
+      "timestamp": "2025-07-22T17:03:12.767677+00:00",
+      "prompt": "Create a front yard landscape inspired by the Southern Charm Front Yard style.\n\nCore Theme: Traditional Southern curb appeal with structure and symmetry.\nDesign Intent: Elegant layout with ornamental trees, evergreens, and seasonal color.\nPlant Palette: Crape Myrtle or Magnolia ‘Little Gem’, Azaleas or Camellias, Boxwood, Pansies or Petunias.\nColor Profile: Greens, whites, pinks, reds with annual pops.\nTextures & Layers: Tree → shrub → low hedge layering.\nHardscape: Flagstone paths, planters, formal layout.\nRegional Adaptations: Sunny – crape myrtle/azalea; Shade – magnolia/camellia.\nPrompt: Emphasize symmetry, structured layering, and polished materials for a timeless front yard.",
+      "originalImage": "https://knlvxeujgojelrhoekia.supabase.co/storage/v1/object/public/user-images/original_1753203791019_crappy%20house.jpg",
+      "generatedImage": "https://knlvxeujgojelrhoekia.supabase.co/storage/v1/object/public/user-images/result_1753203975945.png",
+      "userContact": {
+        "name": null,
+        "email": null,
+        "phone": null,
+        "address": null
+      }
+    },
+    {
+      "id": "dc6a94b9-597b-4c43-916e-d2e2e6ac19bd",
+      "timestamp": "2025-07-22T16:39:48.745982+00:00",
+      "prompt": "Generate a front or backyard landscape inspired by the Pollinator Friendly Mississippi Mix.\n\nCore Theme: Support native bees, butterflies, and birds through naturalistic plantings.\nDesign Intent: Colorful, layered garden mimicking meadows and woodland edges.\nPlant Palette: Purple Coneflower, Black-eyed Susan, Butterfly Weed, Blue Sage, Eastern Redbud, Little Bluestem.\nColor Profile: Purples, yellows, oranges, blues; seasonal change from spring to fall.\nTextures & Layers: Vertical variation from canopy to wildflowers and grasses.\nHardscape: Natural mulch, logs, gravel, stepping stones.\nRegional Adaptations: Sun – wildflowers; Shade – redbud; Urban – neater borders.\nPrompt: Layer wildflowers, grasses, and native trees with natural materials and flowing forms for ecological richness.\n\nMost importantly, please keep the house and structure the exact same. only the above changes to the front yard and landscape areas.",
+      "originalImage": "https://knlvxeujgojelrhoekia.supabase.co/storage/v1/object/public/user-images/original_1753202387105_crappy%20house.jpg",
+      "generatedImage": "https://knlvxeujgojelrhoekia.supabase.co/storage/v1/object/public/user-images/result_1753202514658.png",
+      "userContact": {
+        "name": null,
+        "email": null,
+        "phone": null,
+        "address": null
+      }
+    },
+    {
+      "id": "c6fe481f-5bf5-45e3-8fb1-fbd08f88013c",
+      "timestamp": "2025-07-22T17:00:56.534825+00:00",
+      "prompt": "Create a front or back yard landscape inspired by the Drought Tolerant Delta Blend style.\n\nCore Theme: Resilient and bold design for hot, dry Southern climates.\nDesign Intent: Sculptural layout with dry-climate ornamentals, gravel, and bold forms.\nPlant Palette: Yucca or Agave, Purple Fountain Grass, Blanket Flower, Russian Sage, Sedum.\nColor Profile: Silvers, burgundies, oranges, dusty greens.\nTextures & Layers: Bold vertical and mounded forms; open spacing.\nHardscape: Gravel/decomposed granite, stone accents, corten edging.\nRegional Adaptations: Full sun – maximize sage/agave; Clay – raise beds or use sedum.\nPrompt: Focus on artistic, sculptural form with heat-tolerant, drought-friendly plants in rhythmic groupings.",
+      "originalImage": "https://knlvxeujgojelrhoekia.supabase.co/storage/v1/object/public/user-images/original_1753203655483_streetview-1753203655482.jpg",
+      "generatedImage": "https://knlvxeujgojelrhoekia.supabase.co/storage/v1/object/public/user-images/result_1753205134737.png",
+      "userContact": {
+        "name": null,
+        "email": null,
+        "phone": null,
+        "address": "114 Westmore Court, Jackson, MS, USA"
+      }
+    },
+    {
+      "id": "8079fd93-c523-45b7-9339-0b971cda6106",
+      "timestamp": "2025-07-22T16:47:14.233358+00:00",
+      "prompt": "Create a front yard or backyard landscape inspired by the Low Maintenance Southern Garden style.\n\nCore Theme: Designed for homeowners who value curb appeal with minimal effort.\nDesign Intent: Tidy, structured with evergreen backbone and seasonal color. Minimal pruning, drought tolerance, and weed suppression.\nPlant Palette: Dwarf Yaupon Holly, Knock Out® Roses, Autumn Sage, Liriope, Muhly Grass, Pine straw or mulch.\nColor Profile: Spring/summer – fuchsia, pink, purple; Fall/winter – evergreen + bronze grasses.\nTextures & Layers: Low-to-medium height; structured layering (liriope → flowering accents → evergreens).\nHardscape: Clean-edged beds, mulch or pine straw, optional stepping stones or planters.\nRegional Adaptations: Sun – salvia/muhly; Shade – hydrangea/abelia; Slope – liriope for cover.\nPrompt: Emphasize neat borders, evergreen structure, and seasonal color with clean lines and minimal maintenance.",
+      "originalImage": "https://knlvxeujgojelrhoekia.supabase.co/storage/v1/object/public/user-images/original_1753202829948_IMG_8475-preview.JPG",
+      "generatedImage": "https://knlvxeujgojelrhoekia.supabase.co/storage/v1/object/public/user-images/result_1753203096666.png",
+      "userContact": {
+        "name": null,
+        "email": null,
+        "phone": null,
+        "address": null
+      }
+    },
+    {
+      "id": "45142aec-4395-4b9f-b9e0-e6f3b88e142c",
+      "timestamp": "2025-07-22T17:26:30.359378+00:00",
+      "prompt": "Create a front or back yard landscape inspired by the Drought Tolerant Delta Blend style.\n\nCore Theme: Resilient and bold design for hot, dry Southern climates.\nDesign Intent: Sculptural layout with dry-climate ornamentals, gravel, and bold forms.\nPlant Palette: Yucca or Agave, Purple Fountain Grass, Blanket Flower, Russian Sage, Sedum.\nColor Profile: Silvers, burgundies, oranges, dusty greens.\nTextures & Layers: Bold vertical and mounded forms; open spacing.\nHardscape: Gravel/decomposed granite, stone accents, corten edging.\nRegional Adaptations: Full sun – maximize sage/agave; Clay – raise beds or use sedum.\nPrompt: Focus on artistic, sculptural form with heat-tolerant, drought-friendly plants in rhythmic groupings.",
+      "originalImage": "https://knlvxeujgojelrhoekia.supabase.co/storage/v1/object/public/user-images/original_1753205171773_IMG_8475-preview.JPG",
+      "generatedImage": "https://knlvxeujgojelrhoekia.supabase.co/storage/v1/object/public/user-images/result_1753206539695.png",
+      "userContact": {
+        "name": null,
+        "email": null,
+        "phone": null,
+        "address": null
+      }
+    },
+    {
+      "id": "cc2c567a-4d82-4b50-8c25-428d8df3879f",
+      "timestamp": "2025-07-22T18:18:40.600742+00:00",
+      "prompt": "Create a front or back yard landscape inspired by the Drought Tolerant Delta Blend style.\n\nCore Theme: Resilient and bold design for hot, dry Southern climates.\nDesign Intent: Sculptural layout with dry-climate ornamentals, gravel, and bold forms.\nPlant Palette: Yucca or Agave, Purple Fountain Grass, Blanket Flower, Russian Sage, Sedum.\nColor Profile: Silvers, burgundies, oranges, dusty greens.\nTextures & Layers: Bold vertical and mounded forms; open spacing.\nHardscape: Gravel/decomposed granite, stone accents, corten edging.\nRegional Adaptations: Full sun – maximize sage/agave; Clay – raise beds or use sedum.\nPrompt: Focus on artistic, sculptural form with heat-tolerant, drought-friendly plants in rhythmic groupings.",
+      "originalImage": "https://knlvxeujgojelrhoekia.supabase.co/storage/v1/object/public/user-images/original_1753208319518_streetview-1753208319517.jpg",
+      "generatedImage": "https://knlvxeujgojelrhoekia.supabase.co/storage/v1/object/public/user-images/result_1753208861468.png",
+      "userContact": {
+        "name": null,
+        "email": null,
+        "phone": null,
+        "address": "9 Gene Place, White Plains, NY, USA"
+      }
+    },
+    {
+      "id": "c2a38ac9-f0a1-457c-959d-1f8a40e94869",
+      "timestamp": "2025-10-02T13:57:54.246358+00:00",
+      "prompt": "Create a front or back yard landscape inspired by the Drought Tolerant Delta Blend style.\n\nCore Theme: Resilient and bold design for hot, dry Southern climates.\nDesign Intent: Sculptural layout with dry-climate ornamentals, gravel, and bold forms.\nPlant Palette: Yucca or Agave, Purple Fountain Grass, Blanket Flower, Russian Sage, Sedum.\nColor Profile: Silvers, burgundies, oranges, dusty greens.\nTextures & Layers: Bold vertical and mounded forms; open spacing.\nHardscape: Gravel/decomposed granite, stone accents, corten edging.\nRegional Adaptations: Full sun – maximize sage/agave; Clay – raise beds or use sedum.\nPrompt: Focus on artistic, sculptural form with heat-tolerant, drought-friendly plants in rhythmic groupings.\n\nMost importantly, please keep the house and structure the exact same. only the above changes to the front yard and landscape areas.",
+      "originalImage": "https://knlvxeujgojelrhoekia.supabase.co/storage/v1/object/public/user-images/original_1759413471890_IMG_8472.JPG",
+      "generatedImage": "https://knlvxeujgojelrhoekia.supabase.co/storage/v1/object/public/user-images/result_1759413685341.png",
+      "userContact": {
+        "name": null,
+        "email": null,
+        "phone": null,
+        "address": null
+      }
+    },
+    {
+      "id": "cf30c32f-f842-4ad1-be50-77d0b5dd4f80",
+      "timestamp": "2025-10-02T00:19:01.575797+00:00",
+      "prompt": "Create a front yard or backyard landscape inspired by the Low Maintenance Southern Garden style.\n\nCore Theme: Designed for homeowners who value curb appeal with minimal effort.\nDesign Intent: Tidy, structured with evergreen backbone and seasonal color. Minimal pruning, drought tolerance, and weed suppression.\nPlant Palette: Dwarf Yaupon Holly, Knock Out® Roses, Autumn Sage, Liriope, Muhly Grass, Pine straw or mulch.\nColor Profile: Spring/summer – fuchsia, pink, purple; Fall/winter – evergreen + bronze grasses.\nTextures & Layers: Low-to-medium height; structured layering (liriope → flowering accents → evergreens).\nHardscape: Clean-edged beds, mulch or pine straw, optional stepping stones or planters.\nRegional Adaptations: Sun – salvia/muhly; Shade – hydrangea/abelia; Slope – liriope for cover.\nPrompt: Emphasize neat borders, evergreen structure, and seasonal color with clean lines and minimal maintenance.\n\nMost importantly, please keep the house and structure the exact same. only the above changes to the front yard and landscape areas.",
+      "originalImage": "https://knlvxeujgojelrhoekia.supabase.co/storage/v1/object/public/user-images/original_1759364338054_IMG_8472.JPG",
+      "generatedImage": "https://knlvxeujgojelrhoekia.supabase.co/storage/v1/object/public/user-images/result_1759364450239.png",
+      "userContact": {
+        "name": null,
+        "email": null,
+        "phone": null,
+        "address": null
+      }
+    },
+    {
+      "id": "87d4c211-08e9-45ae-9336-e1e8b28f8d05",
+      "timestamp": "2025-10-02T13:48:55.665866+00:00",
+      "prompt": "Create a front or backyard landscape inspired by the Mississippi Cottage Garden style.\n\nCore Theme: Whimsical, floral abundance with classic Southern charm.\nDesign Intent: Lush, informal layout with nostalgic blooms and soft edges.\nPlant Palette: Hydrangeas, Daylilies, Bee Balm, Garden Phlox, Boxwood, Climbing Roses or Clematis.\nColor Profile: Pinks, purples, soft orange, pale blue.\nTextures & Layers: Trellised accents, flowering layers, evergreen border.\nHardscape: Trellis, arbor, mulch, stepping stones.\nRegional Adaptations: Sun – daylilies/phlox; Shade – hydrangeas/roses; Small – vertical accents.\nPrompt: Embrace layered blooms, vertical interest, and a loose structure to capture a storybook cottage feel.\n\nMost importantly, please keep the house and structure the exact same. only the above changes to the front yard and landscape areas.",
+      "originalImage": "https://knlvxeujgojelrhoekia.supabase.co/storage/v1/object/public/user-images/original_1759412932303_IMG_8472.JPG",
+      "generatedImage": "https://knlvxeujgojelrhoekia.supabase.co/storage/v1/object/public/user-images/result_1759413047221.png",
+      "userContact": {
+        "name": null,
+        "email": null,
+        "phone": null,
+        "address": null
+      }
+    }
+  ],
+  "promptAnalysis": {
+    "uniquePrompts": 23,
+    "totalPrompts": 38,
+    "promptTypes": {
+      "Other": 38
+    }
+  },
+  "usageStats": {
+    "totalGenerations": 38,
+    "pendingGenerations": 0,
+    "usersWithContactInfo": 1
+  }
+}

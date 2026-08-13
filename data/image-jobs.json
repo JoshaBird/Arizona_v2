@@ -1,0 +1,12 @@
+{
+  "job_1759834464160_3gesqglyk": {
+    "status": "completed",
+    "result_url": "https://godojpqqhiwbsnqefpwa.supabase.co/storage/v1/object/public/submission-images/result_job_1759834464160_3gesqglyk_1759834503162.png",
+    "completed_at": "2025-10-07T10:55:05.802Z"
+  },
+  "job_1759873775859_3b94ffjn5": {
+    "status": "failed",
+    "error": "DALL-E 2 API Error: 400 - {\n  \"error\": {\n    \"message\": \"Invalid 'prompt': string too long. Expected a string with maximum length 1000, but got a string with length 1153 instead.\",\n    \"type\": \"invali",
+    "completed_at": "2025-10-07T21:49:38.049Z"
+  }
+}

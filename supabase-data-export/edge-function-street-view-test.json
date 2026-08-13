@@ -1,0 +1,12 @@
+{
+  "function": "street-view",
+  "testedAt": "2025-10-02T16:49:16.095Z",
+  "testData": {
+    "coordinates": "32.2988,-90.1848"
+  },
+  "response": null,
+  "error": {
+    "name": "FunctionsHttpError",
+    "context": {}
+  }
+}

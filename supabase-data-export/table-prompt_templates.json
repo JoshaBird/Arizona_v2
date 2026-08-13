@@ -1,0 +1,55 @@
+{
+  "table": "prompt_templates",
+  "exportedAt": "2025-10-02T16:49:12.892Z",
+  "recordCount": 6,
+  "data": [
+    {
+      "id": 10,
+      "created_at": "2025-06-27T18:17:11.694773+00:00",
+      "name": "Southern Charm Front Yard",
+      "one_line": "A refined, symmetrical front yard with evergreen hedges, flowering shrubs, and Southern elegance.",
+      "prompt_text": "Create a front yard landscape inspired by the Southern Charm Front Yard style.\n\nCore Theme: Traditional Southern curb appeal with structure and symmetry.\nDesign Intent: Elegant layout with ornamental trees, evergreens, and seasonal color.\nPlant Palette: Crape Myrtle or Magnolia ‘Little Gem’, Azaleas or Camellias, Boxwood, Pansies or Petunias.\nColor Profile: Greens, whites, pinks, reds with annual pops.\nTextures & Layers: Tree → shrub → low hedge layering.\nHardscape: Flagstone paths, planters, formal layout.\nRegional Adaptations: Sunny – crape myrtle/azalea; Shade – magnolia/camellia.\nPrompt: Emphasize symmetry, structured layering, and polished materials for a timeless front yard.\n\nMost importantly, please keep the house and structure the exact same. only the above changes to the front yard and landscape areas.",
+      "type": "Landscaping"
+    },
+    {
+      "id": 7,
+      "created_at": "2025-06-27T18:17:11.694773+00:00",
+      "name": "Low Maintenance Southern Garden",
+      "one_line": "A tidy, low-fuss Southern landscape using evergreens, seasonal color, and clean borders.",
+      "prompt_text": "Create a front yard or backyard landscape inspired by the Low Maintenance Southern Garden style.\n\nCore Theme: Designed for homeowners who value curb appeal with minimal effort.\nDesign Intent: Tidy, structured with evergreen backbone and seasonal color. Minimal pruning, drought tolerance, and weed suppression.\nPlant Palette: Dwarf Yaupon Holly, Knock Out® Roses, Autumn Sage, Liriope, Muhly Grass, Pine straw or mulch.\nColor Profile: Spring/summer – fuchsia, pink, purple; Fall/winter – evergreen + bronze grasses.\nTextures & Layers: Low-to-medium height; structured layering (liriope → flowering accents → evergreens).\nHardscape: Clean-edged beds, mulch or pine straw, optional stepping stones or planters.\nRegional Adaptations: Sun – salvia/muhly; Shade – hydrangea/abelia; Slope – liriope for cover.\nPrompt: Emphasize neat borders, evergreen structure, and seasonal color with clean lines and minimal maintenance.\n\nMost importantly, please keep the house and structure the exact same. only the above changes to the front yard and landscape areas.",
+      "type": "Landscaping"
+    },
+    {
+      "id": 8,
+      "created_at": "2025-06-27T18:17:11.694773+00:00",
+      "name": "Drought Tolerant Delta Blend",
+      "one_line": "A sculptural, low-water garden with bold forms, gravel paths, and Southern resilience.",
+      "prompt_text": "Create a front or back yard landscape inspired by the Drought Tolerant Delta Blend style.\n\nCore Theme: Resilient and bold design for hot, dry Southern climates.\nDesign Intent: Sculptural layout with dry-climate ornamentals, gravel, and bold forms.\nPlant Palette: Yucca or Agave, Purple Fountain Grass, Blanket Flower, Russian Sage, Sedum.\nColor Profile: Silvers, burgundies, oranges, dusty greens.\nTextures & Layers: Bold vertical and mounded forms; open spacing.\nHardscape: Gravel/decomposed granite, stone accents, corten edging.\nRegional Adaptations: Full sun – maximize sage/agave; Clay – raise beds or use sedum.\nPrompt: Focus on artistic, sculptural form with heat-tolerant, drought-friendly plants in rhythmic groupings.\n\nMost importantly, please keep the house and structure the exact same. only the above changes to the front yard and landscape areas.",
+      "type": "Landscaping"
+    },
+    {
+      "id": 11,
+      "created_at": "2025-06-27T18:17:11.694773+00:00",
+      "name": "Woodland Native Retreat",
+      "one_line": "A serene, naturalized shade garden with native trees, ferns, and understory layers.",
+      "prompt_text": "Generate a landscape design inspired by the Woodland Native Retreat style.\n\nCore Theme: A calm, layered garden inspired by Mississippi’s woodlands.\nDesign Intent: Forest floor feel with native layers and textural interest.\nPlant Palette: Oakleaf Hydrangea, Southern Wood Fern, Coral Bells, Dogwood or Redbud, River Birch.\nColor Profile: Greens, whites, pale purples, fall bronzes.\nTextures & Layers: Canopy → shrub → fern/coral bells.\nHardscape: Mulch paths, stone, bird baths.\nRegional Adaptations: Shade – ferns/coral bells; Dappled – redbud/hydrangea; Large – river birch.\nPrompt: Mimic a forest understory with organic layers, native shade-tolerant plants, and calming hardscape.\n\nMost importantly, please keep the house and structure the exact same. only the above changes to the front yard and landscape areas.",
+      "type": "Landscaping"
+    },
+    {
+      "id": 12,
+      "created_at": "2025-06-27T18:17:11.694773+00:00",
+      "name": "Mississippi Cottage Garden",
+      "one_line": "A nostalgic, flower-filled garden with trellised vines, soft borders, and Southern whimsy.",
+      "prompt_text": "Create a front or backyard landscape inspired by the Mississippi Cottage Garden style.\n\nCore Theme: Whimsical, floral abundance with classic Southern charm.\nDesign Intent: Lush, informal layout with nostalgic blooms and soft edges.\nPlant Palette: Hydrangeas, Daylilies, Bee Balm, Garden Phlox, Boxwood, Climbing Roses or Clematis.\nColor Profile: Pinks, purples, soft orange, pale blue.\nTextures & Layers: Trellised accents, flowering layers, evergreen border.\nHardscape: Trellis, arbor, mulch, stepping stones.\nRegional Adaptations: Sun – daylilies/phlox; Shade – hydrangeas/roses; Small – vertical accents.\nPrompt: Embrace layered blooms, vertical interest, and a loose structure to capture a storybook cottage feel.\n\nMost importantly, please keep the house and structure the exact same. only the above changes to the front yard and landscape areas.",
+      "type": "Landscaping"
+    },
+    {
+      "id": 9,
+      "created_at": "2025-06-27T18:17:11.694773+00:00",
+      "name": "Pollinator Friendly Mississippi Mix",
+      "one_line": "A vibrant native landscape designed to support pollinators with wildflowers, grasses, and small trees.",
+      "prompt_text": "Generate a front or backyard landscape inspired by the Pollinator Friendly Mississippi Mix.\n\nCore Theme: Support native bees, butterflies, and birds through naturalistic plantings.\nDesign Intent: Colorful, layered garden mimicking meadows and woodland edges.\nPlant Palette: Purple Coneflower, Black-eyed Susan, Butterfly Weed, Blue Sage, Eastern Redbud, Little Bluestem.\nColor Profile: Purples, yellows, oranges, blues; seasonal change from spring to fall.\nTextures & Layers: Vertical variation from canopy to wildflowers and grasses.\nHardscape: Natural mulch, logs, gravel, stepping stones.\nRegional Adaptations: Sun – wildflowers; Shade – redbud; Urban – neater borders.\nPrompt: Layer wildflowers, grasses, and native trees with natural materials and flowing forms for ecological richness.\n\nMost importantly, please keep the house and structure the exact same. only the above changes to the front yard and landscape areas.",
+      "type": "Landscaping"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "function": "send-visualizer-quote",
+  "testedAt": "2025-10-02T16:49:17.245Z",
+  "testData": {
+    "name": "Test User",
+    "email": "test@example.com",
+    "phone": "555-1234",
+    "address": "Test Address",
+    "templateName": "Test Template",
+    "customDetails": "Test details",
+    "originalImageUrl": "test-url",
+    "resultImageUrl": "test-result-url"
+  },
+  "response": {
+    "success": true,
+    "data": {
+      "data": {
+        "id": "0ff18004-318d-4a29-a066-0f5bf24d1574"
+      },
+      "error": null
+    }
+  },
+  "error": null
+}

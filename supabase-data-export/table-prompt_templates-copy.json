@@ -1,0 +1,151 @@
+{
+  "table": "prompt_templates",
+  "exportedAt": "2025-10-02T16:49:12.892Z",
+  "recordCount": 6,
+  "data": [
+    {
+      "id": 10,
+      "created_at": "2025-06-27T18:17:11.694773+00:00",
+      "name": "Southern Charm Front Yard",
+      "one_line": "A refined, symmetrical front yard with evergreen hedges, flowering shrubs, and Southern elegance.",
+      "prompt_text": "Create a front yard landscape inspired by the Southern Charm Front Yard style.\n\nCore Theme: Traditional Southern curb appeal with structure and symmetry.\nDesign Intent: Elegant layout with ornamental trees, evergreens, and seasonal color.\nPlant Palette: Crape Myrtle or Magnolia 'Little Gem', Azaleas or Camellias, Boxwood, Pansies or Petunias.\nColor Profile: Greens, whites, pinks, reds with annual pops.\nTextures & Layers: Tree → shrub → low hedge layering.\nHardscape: Flagstone paths, planters, formal layout.\nRegional Adaptations: Sunny – crape myrtle/azalea; Shade – magnolia/camellia.\nPrompt: Emphasize symmetry, structured layering, and polished materials for a timeless front yard.\n\nMost importantly, please keep the house and structure the exact same. only the above changes to the front yard and landscape areas.",
+      "type": "Landscaping",
+      "city": "Mississippi"
+    },
+    {
+      "id": 7,
+      "created_at": "2025-06-27T18:17:11.694773+00:00",
+      "name": "Low Maintenance Southern Garden",
+      "one_line": "A tidy, low-fuss Southern landscape using evergreens, seasonal color, and clean borders.",
+      "prompt_text": "Create a front yard or backyard landscape inspired by the Low Maintenance Southern Garden style.\n\nCore Theme: Designed for homeowners who value curb appeal with minimal effort.\nDesign Intent: Tidy, structured with evergreen backbone and seasonal color. Minimal pruning, drought tolerance, and weed suppression.\nPlant Palette: Dwarf Yaupon Holly, Knock Out® Roses, Autumn Sage, Liriope, Muhly Grass, Pine straw or mulch.\nColor Profile: Spring/summer – fuchsia, pink, purple; Fall/winter – evergreen + bronze grasses.\nTextures & Layers: Low-to-medium height; structured layering (liriope → flowering accents → evergreens).\nHardscape: Clean-edged beds, mulch or pine straw, optional stepping stones or planters.\nRegional Adaptations: Sun – salvia/muhly; Shade – hydrangea/abelia; Slope – liriope for cover.\nPrompt: Emphasize neat borders, evergreen structure, and seasonal color with clean lines and minimal maintenance.\n\nMost importantly, please keep the house and structure the exact same. only the above changes to the front yard and landscape areas.",
+      "type": "Landscaping",
+      "city": "Mississippi"
+    },
+    {
+      "id": 8,
+      "created_at": "2025-06-27T18:17:11.694773+00:00",
+      "name": "Drought Tolerant Delta Blend",
+      "one_line": "A sculptural, low-water garden with bold forms, gravel paths, and Southern resilience.",
+      "prompt_text": "Create a front or back yard landscape inspired by the Drought Tolerant Delta Blend style.\n\nCore Theme: Resilient and bold design for hot, dry Southern climates.\nDesign Intent: Sculptural layout with dry-climate ornamentals, gravel, and bold forms.\nPlant Palette: Yucca or Agave, Purple Fountain Grass, Blanket Flower, Russian Sage, Sedum.\nColor Profile: Silvers, burgundies, oranges, dusty greens.\nTextures & Layers: Bold vertical and mounded forms; open spacing.\nHardscape: Gravel/decomposed granite, stone accents, corten edging.\nRegional Adaptations: Full sun – maximize sage/agave; Clay – raise beds or use sedum.\nPrompt: Focus on artistic, sculptural form with heat-tolerant, drought-friendly plants in rhythmic groupings.\n\nMost importantly, please keep the house and structure the exact same. only the above changes to the front yard and landscape areas.",
+      "type": "Landscaping",
+      "city": "Mississippi"
+    },
+    {
+      "id": 11,
+      "created_at": "2025-06-27T18:17:11.694773+00:00",
+      "name": "Woodland Native Retreat",
+      "one_line": "A serene, naturalized shade garden with native trees, ferns, and understory layers.",
+      "prompt_text": "Generate a landscape design inspired by the Woodland Native Retreat style.\n\nCore Theme: A calm, layered garden inspired by Mississippi's woodlands.\nDesign Intent: Forest floor feel with native layers and textural interest.\nPlant Palette: Oakleaf Hydrangea, Southern Wood Fern, Coral Bells, Dogwood or Redbud, River Birch.\nColor Profile: Greens, whites, pale purples, fall bronzes.\nTextures & Layers: Canopy → shrub → fern/coral bells.\nHardscape: Mulch paths, stone, bird baths.\nRegional Adaptations: Shade – ferns/coral bells; Dappled – redbud/hydrangea; Large – river birch.\nPrompt: Mimic a forest understory with organic layers, native shade-tolerant plants, and calming hardscape.\n\nMost importantly, please keep the house and structure the exact same. only the above changes to the front yard and landscape areas.",
+      "type": "Landscaping",
+      "city": "Mississippi"
+    },
+    {
+      "id": 12,
+      "created_at": "2025-06-27T18:17:11.694773+00:00",
+      "name": "Mississippi Cottage Garden",
+      "one_line": "A nostalgic, flower-filled garden with trellised vines, soft borders, and Southern whimsy.",
+      "prompt_text": "Create a front or backyard landscape inspired by the Mississippi Cottage Garden style.\n\nCore Theme: Whimsical, floral abundance with classic Southern charm.\nDesign Intent: Lush, informal layout with nostalgic blooms and soft edges.\nPlant Palette: Hydrangeas, Daylilies, Bee Balm, Garden Phlox, Boxwood, Climbing Roses or Clematis.\nColor Profile: Pinks, purples, soft orange, pale blue.\nTextures & Layers: Trellised accents, flowering layers, evergreen border.\nHardscape: Trellis, arbor, mulch, stepping stones.\nRegional Adaptations: Sun – daylilies/phlox; Shade – hydrangeas/roses; Small – vertical accents.\nPrompt: Embrace layered blooms, vertical interest, and a loose structure to capture a storybook cottage feel.\n\nMost importantly, please keep the house and structure the exact same. only the above changes to the front yard and landscape areas.",
+      "type": "Landscaping",
+      "city": "Mississippi"
+    },
+    {
+      "id": 9,
+      "created_at": "2025-06-27T18:17:11.694773+00:00",
+      "name": "Pollinator Friendly Mississippi Mix",
+      "one_line": "A vibrant native landscape designed to support pollinators with wildflowers, grasses, and small trees.",
+      "prompt_text": "Generate a front or backyard landscape inspired by the Pollinator Friendly Mississippi Mix.\n\nCore Theme: Support native bees, butterflies, and birds through naturalistic plantings.\nDesign Intent: Colorful, layered garden mimicking meadows and woodland edges.\nPlant Palette: Purple Coneflower, Black-eyed Susan, Butterfly Weed, Blue Sage, Eastern Redbud, Little Bluestem.\nColor Profile: Purples, yellows, oranges, blues; seasonal change from spring to fall.\nTextures & Layers: Vertical variation from canopy to wildflowers and grasses.\nHardscape: Natural mulch, logs, gravel, stepping stones.\nRegional Adaptations: Sun – wildflowers; Shade – redbud; Urban – neater borders.\nPrompt: Layer wildflowers, grasses, and native trees with natural materials and flowing forms for ecological richness.\n\nMost importantly, please keep the house and structure the exact same. only the above changes to the front yard and landscape areas.",
+      "type": "Landscaping",
+      "city": "Mississippi"
+    },
+    {
+      "id": 13,
+      "created_at": "2025-06-27T18:17:11.694773+00:00",
+      "name": "Coastal Clean Front Yard",
+      "one_line": "Salt-tolerant, breezy, and bright. A minimalist yet inviting design built to withstand Florida's coastal climate.",
+      "prompt_text": "Create a **front yard landscape** inspired by the *Coastal Clean Front Yard* style.\nPrioritize **clean lines, salt- and wind-tolerant structure, and a bright, breezy appearance**. The layout should feel crisp, organized, and low-maintenance while capturing a Florida coastal aesthetic.\n\n**Use the following plant palette as the core:**\n– Pygmy Date Palm or Sabal Palm for vertical accents and tropical identity\n– Saw Palmetto for hardy evergreen structure and texture\n– Muhly Grass for soft motion and pink fall plumes\n– Society Garlic or Agapanthus for edging and seasonal purple blooms\n– White gravel or crushed shell for the ground plane to provide brightness and contrast\n\n**Layer the design from front to back:**\n• Edging plants (society garlic or agapanthus) along walkways and borders\n• Mid-height grasses (muhly) in soft, flowing groupings for seasonal color\n• Palmetto shrubs behind for evergreen structure and resilience\n• Palms as focal points to define the entry or corners of the house\n\n**Add optional hardscape elements such as:**\n– A coral stone or paver walkway\n– Decorative shell borders or edging\n– Simple ceramic planters near the entry\n\n**Adapt based on site conditions:**\n• In high-wind areas, favor sabal palms for resilience\n• In higher-salt exposure, emphasize saw palmetto and dune-friendly grasses\n• For partially shaded inland sites, substitute coontie or dwarf holly for palmetto\n\nMaintain the **bright, breezy, and resilient character** throughout — using plants that thrive with minimal care and remain polished year-round.\n\nOnly include plants suited for **USDA Zones 9–11 and Florida's hot, humid, coastal climate**.\n\nMost importantly, please keep the house and structure the exact same. only the above changes to the front yard and landscape areas.",
+      "type": "Landscaping",
+      "city": "Florida"
+    },
+    {
+      "id": 14,
+      "created_at": "2025-06-27T18:17:11.694773+00:00",
+      "name": "Tropical Burst Front Yard",
+      "one_line": "Color-forward and lush, showcasing Florida's tropical vibrancy.",
+      "prompt_text": "Create a **front yard landscape** inspired by the *Tropical Burst Front Yard* style.\nPrioritize **lush layering, bold foliage, and nonstop floral color** to create a vibrant, tropical aesthetic.\n\n**Use the following plant palette as the core:**\n– Areca Palm for height and background privacy\n– Bird of Paradise or Heliconia for dramatic, structural foliage\n– Hibiscus for continuous, large, colorful blooms\n– Crotons for bold foliage in reds, oranges, and yellows\n– Bougainvillea for climbing or trailing bursts of hot pink and purple\n– Mulch as the ground base to highlight color contrasts\n\n**Layer the design from front to back:**\n• Crotons at the edge for bold leaf color\n• Hibiscus in mid-layer masses for flowers\n• Heliconia or bird of paradise behind for tropical drama\n• Areca palms at the back for height and privacy screen\n• Bougainvillea on trellises, fences, or as a trailing accent\n\n**Add optional hardscape elements such as:**\n– A wood or metal trellis\n– Decorative ceramic planters at entry points\n– A simple mulch or gravel walkway\n\n**Adapt based on site conditions:**\n• In full sun, increase hibiscus and bougainvillea massing\n• In shadier sites, rely more heavily on crotons and heliconia\n• In coastal areas, substitute lantana or oleander for bougainvillea\n\nMaintain the **bright, colorful, and layered tropical character** throughout, creating a lively curb presence that feels unmistakably Floridian.\n\nOnly include plants suited for **USDA Zones 9–11 and Florida's hot, humid climate**.\n\nMost importantly, please keep the house and structure the exact same. only the above changes to the front yard and landscape areas.",
+      "type": "Landscaping",
+      "city": "Florida"
+    },
+    {
+      "id": 15,
+      "created_at": "2025-06-27T18:17:11.694773+00:00",
+      "name": "Classic Florida Suburban",
+      "one_line": "Neat, practical, and HOA-friendly — a familiar Florida curb appeal.",
+      "prompt_text": "Create a **front yard landscape** inspired by the *Classic Florida Suburban* style.\nPrioritize **a clean lawn, simple structure, and pops of seasonal color** for a timeless suburban curb appeal.\n\n**Use the following plant palette as the core:**\n– St. Augustine Grass for a lush green lawn\n– Indian Hawthorn or Ixora as foundation shrubs\n– Sago Palm as focal accents\n– Knock Out® Roses or Vinca for seasonal flower beds\n– Mulch or pine bark to frame beds and suppress weeds\n\n**Layer the design from front to back:**\n• Lawn as the broad ground plane\n• Foundation shrubs near the house for structure\n• Palms as accent points or centered focal pieces\n• Flower beds at edges or walkways for color highlights\n\n**Add optional hardscape elements such as:**\n– Stone or brick edging around flower beds\n– Mulched tree rings for accent trees\n– A simple straight or curved walkway to the front door\n\n**Adapt based on site conditions:**\n• In shady yards, replace lawn with zoysia and roses with camellias\n• In coastal areas, choose lantana or vinca over roses for better tolerance\n• In compact yards, reduce scale but maintain lawn-to-bed balance\n\nMaintain the **structured, simple, and family-friendly look**, keeping upkeep manageable for a suburban setting.\n\nOnly include plants suited for **USDA Zones 9–11 and Florida's hot, humid climate**.\n\nMost importantly, please keep the house and structure the exact same. only the above changes to the front yard and landscape areas.",
+      "type": "Landscaping",
+      "city": "Florida"
+    },
+    {
+      "id": 16,
+      "created_at": "2025-06-27T18:17:11.694773+00:00",
+      "name": "Low-Water Native Front Yard",
+      "one_line": "Resilient and eco-friendly, using Florida natives for sustainability and habitat value.",
+      "prompt_text": "Create a **front yard landscape** inspired by the *Low-Water Native Front Yard* style.\nPrioritize **drought tolerance, ecological value, and natural beauty** with native Florida plants.\n\n**Use the following plant palette as the core:**\n– Firebush (Hamelia patens) for pollinator-friendly seasonal blooms\n– Coontie for evergreen structure and historical Florida native value\n– Dune Sunflower as groundcover for bright, low mats of yellow blooms\n– Muhly Grass for airy pink fall plumes and textural motion\n– Sandy soil or natural mulch as ground cover for water conservation\n\n**Layer the design from front to back:**\n• Dune sunflower as sunny groundcover near edges and walkways\n• Coontie and muhly grass mid-layer for evergreen and textural backbone\n• Firebush as taller focal shrub masses for color and wildlife appeal\n\n**Add optional hardscape elements such as:**\n– Stone or gravel walkways for drainage\n– Birdbath or natural rock accents\n– Mulched seating alcove\n\n**Adapt based on site conditions:**\n• In full sun, maximize dune sunflower and muhly grass coverage\n• In shaded spots, emphasize coontie and add native ferns\n• In urban/frontage areas, use defined mulch borders for formality\n\nMaintain the **natural, sustainable, and native-centered identity**, highlighting water efficiency and pollinator habitat.\n\nOnly include plants suited for **USDA Zones 9–11 and Florida's hot, humid climate**.\n\nMost importantly, please keep the house and structure the exact same. only the above changes to the front yard and landscape areas.",
+      "type": "Landscaping",
+      "city": "Florida"
+    },
+    {
+      "id": 17,
+      "created_at": "2025-06-27T18:17:11.694773+00:00",
+      "name": "Mediterranean Elegance Front Yard",
+      "one_line": "Elegant, timeless, and warm — inspired by Mediterranean courtyards and villas common in upscale Florida neighborhoods.",
+      "prompt_text": "Create a **front yard landscape** inspired by the *Mediterranean Elegance Front Yard* style.\nPrioritize **symmetry, terracotta accents, and Mediterranean plantings** for a refined and timeless curb appeal.\n\n**Use the following plant palette as the core:**\n– Citrus trees (orange, lemon, or lime) in decorative pots or small beds\n– Bougainvillea climbing on a trellis or framing the entry for bold seasonal color\n– Italian cypress or podocarpus for vertical structure\n– Boxwood or dwarf podocarpus hedges for clean foundation borders\n– Terracotta or ceramic pots to reinforce the Mediterranean aesthetic\n\n**Layer the design from back to front:**\n• Tall cypress or podocarpus for vertical framing near entry or corners\n• Bougainvillea climbing trellises, fences, or entry arches\n• Citrus trees in pots or bed clusters for fragrance and fruit color\n• Boxwood hedge defining the base of beds and walkways\n\n**Add optional hardscape elements such as:**\n– Stucco or stone entry walls\n– Wrought iron or wooden trellises\n– Gravel, tile, or stone pathways\n\n**Adapt based on site conditions:**\n• In full sun, emphasize bougainvillea and citrus groupings\n• In shaded sites, substitute camellias or podocarpus for reliable greenery\n• In coastal exposure, use buttonwood or dwarf yaupon instead of cypress\n\nMaintain the **timeless Mediterranean character** with refined borders, iconic terracotta details, and vibrant, yet controlled, plantings.\n\nOnly include plants suited for **USDA Zones 9–11 and Florida's hot, humid climate**.\n\nMost importantly, please keep the house and structure the exact same. only the above changes to the front yard and landscape areas.",
+      "type": "Landscaping",
+      "city": "Florida"
+    },
+    {
+      "id": 18,
+      "created_at": "2025-06-27T18:17:11.694773+00:00",
+      "name": "Poolside Paradise",
+      "one_line": "Resort living at home: lush privacy, water focus, and a touch of tropical drama.",
+      "prompt_text": "Create a **backyard landscape** inspired by the *Poolside Paradise* style.\nPrioritize **privacy, lush tropical framing, and a resort-like ambiance** around a pool deck.\n\n**Use the following plant palette as the core:**\n– Areca palm for dense, tall privacy screening\n– Banana plant or bird of paradise for bold tropical height and foliage drama\n– Hibiscus as a flowering hedge for nonstop color\n– Plumeria for fragrant tropical blooms\n– Travertine, coral stone, or pavers for a bright, resort-style deck surface\n\n**Layer the design from back to front:**\n• Areca palms forming a green privacy wall\n• Banana plants or bird of paradise punctuating corners or flanking pool edges\n• Hibiscus hedge framing the pool perimeter with blooms\n• Plumeria near seating zones for fragrance and seasonal flowers\n\n**Add optional hardscape elements such as:**\n– Travertine or coral stone deck finishes\n– Tiki torches or lanterns\n– Ceramic pots with bromeliads or succulents\n\n**Adapt based on site conditions:**\n• In high-wind coastal zones, replace bananas with seagrape or cabbage palms\n• In compact yards, simplify layers and focus on hibiscus and palms\n• In shaded poolsides, incorporate philodendron, ginger, or ferns\n\nMaintain the **resort-like, lush, and private character** — framing the pool as the centerpiece while creating a tropical getaway feel.\n\nOnly include plants suited for **USDA Zones 9–11 and Florida's hot, humid climate**.\n\nMost importantly, please keep the house and structure the exact same. only the above changes to the front yard and landscape areas.",
+      "type": "Landscaping",
+      "city": "Florida"
+    },
+    {
+      "id": 19,
+      "created_at": "2025-06-27T18:17:11.694773+00:00",
+      "name": "Family Lawn Backyard",
+      "one_line": "Practical, open, and child-friendly — made for play and relaxation.",
+      "prompt_text": "Create a **backyard landscape** inspired by the *Family Lawn Backyard* style.\nPrioritize **wide open lawn space, shade for comfort, and simple border structure** to support play and gatherings.\n\n**Use the following plant palette as the core:**\n– St. Augustine or Bahia grass lawn for a lush, durable ground plane\n– Live oak or southern magnolia as canopy trees for shade and presence\n– Podocarpus or ligustrum for evergreen border hedges\n– Daylilies or society garlic as colorful edge plantings\n\n**Layer the design from back to front:**\n• Shade tree(s) as anchor points for canopy\n• Border hedge defining yard edges and adding privacy\n• Expansive lawn at the center for play\n• Daylilies or society garlic at bed edges for color accents\n\n**Add optional hardscape elements such as:**\n– Patio or paved seating area\n– Stone edging around flower beds\n– Mulched playset zone\n\n**Adapt based on site conditions:**\n• For compact yards, use dwarf magnolia or crepe myrtle as smaller canopy trees\n• In shady conditions, use zoysia grass for better tolerance or reduce lawn area\n• In salt-exposed zones, substitute buttonwood for podocarpus\n\nMaintain the **family-friendly, practical, and flexible identity** — balancing open function with classic Florida greenery.\n\nOnly include plants suited for **USDA Zones 9–11 and Florida's hot, humid climate**.\n\nMost importantly, please keep the house and structure the exact same. only the above changes to the front yard and landscape areas.",
+      "type": "Landscaping",
+      "city": "Florida"
+    },
+    {
+      "id": 20,
+      "created_at": "2025-06-27T18:17:11.694773+00:00",
+      "name": "Outdoor Entertaining Patio",
+      "one_line": "Designed for gatherings, meals, and evenings outdoors with a Florida flair.",
+      "prompt_text": "Create a **backyard landscape** inspired by the *Outdoor Entertaining Patio* style.\nPrioritize **welcoming seating, festive planting accents, and a patio-centered layout** for gatherings.\n\n**Use the following plant palette as the core:**\n– Bougainvillea climbing a pergola or trellis for bold flowering impact\n– Hibiscus in planters near seating zones for continuous blooms\n– Foxtail palm or queen palm to frame the patio edges with height\n– Agapanthus or lantana for border edging and color pops\n– Paver or stone patio surface for durability and style\n\n**Layer the design from back to front:**\n• Palms as vertical anchors at edges of patio\n• Bougainvillea climbing a pergola, trellis, or arch\n• Hibiscus in ceramic pots near seating clusters\n• Agapanthus or lantana edging the patio walkouts\n\n**Add optional hardscape elements such as:**\n– Firepit or outdoor kitchen feature\n– String lighting or lanterns\n– Decorative ceramic planters\n\n**Adapt based on site conditions:**\n• In smaller backyards, scale down palms and use dwarf hibiscus\n• In shady conditions, use jasmine or passion vine instead of bougainvillea\n• In coastal zones, opt for salt-tolerant palms and lantana edging\n\nMaintain the **sociable, colorful, and patio-centric character** — ensuring a festive and comfortable Florida entertaining atmosphere.\n\nOnly include plants suited for **USDA Zones 9–11 and Florida's hot, humid climate**.\n\nMost importantly, please keep the house and structure the exact same. only the above changes to the front yard and landscape areas.",
+      "type": "Landscaping",
+      "city": "Florida"
+    },
+    {
+      "id": 21,
+      "created_at": "2025-06-27T18:17:11.694773+00:00",
+      "name": "Native Wildlife Haven",
+      "one_line": "Pollinator- and bird-friendly, natural, and ecologically rich.",
+      "prompt_text": "Create a **backyard landscape** inspired by the *Native Wildlife Haven* style.\nPrioritize **pollinator habitat, layered native structure, and natural beauty** that feels like a pocket ecosystem.\n\n**Use the following plant palette as the core:**\n– Firebush (Hamelia patens) for hummingbird-attracting blooms\n– Milkweed as a butterfly host plant\n– Simpson's Stopper as a small tree or large shrub for structure and white blooms\n– Muhly and fakahatchee grasses for airy motion and seasonal plumes\n– Natural mulch or sandy base for ground cover\n\n**Layer the design from back to front:**\n• Simpson's Stopper as canopy layer for small shade and structure\n• Firebush mid-layer for continuous pollinator blooms\n• Milkweed masses near edges for butterfly support\n• Muhly and fakahatchee grasses interwoven for texture and motion\n• Natural mulch paths weaving through\n\n**Add optional hardscape elements such as:**\n– Bird baths or feeders\n– Rustic log or stone edging\n– Flagstone stepping paths\n\n**Adapt based on site conditions:**\n• In full sun, highlight milkweed and grasses\n• In shaded yards, emphasize firebush and Simpson's Stopper\n• In urban settings, contain plantings with neat borders for formality\n\nMaintain the **wildlife-friendly, native-rich, and ecologically layered character** — making the yard both beautiful and habitat-supporting.\n\nOnly include plants suited for **USDA Zones 9–11 and Florida's hot, humid climate**.\n\nMost importantly, please keep the house and structure the exact same. only the above changes to the front yard and landscape areas.",
+      "type": "Landscaping",
+      "city": "Florida"
+    },
+    {
+      "id": 22,
+      "created_at": "2025-06-27T18:17:11.694773+00:00",
+      "name": "Shaded Hammock Retreat",
+      "one_line": "Cool, lush, and restful — a retreat designed around shade trees, ferns, and a hammock-centered relaxation zone.",
+      "prompt_text": "Create a **backyard landscape** inspired by the *Shaded Hammock Retreat* style.\nPrioritize **layered greenery, dappled shade, and a restful layout** that frames a hammock or seating area as the centerpiece.\n\n**Use the following plant palette as the core:**\n– Live Oak or Southern Magnolia for canopy shade and presence\n– Philodendron Selloum or Ginger for lush, large-leaved understory texture\n– Ferns (Boston or Sword Fern) for ground-level softness and lush fill\n– Camellia or Azalea for seasonal color accents under the tree canopy\n– Pine straw or natural mulch for the ground plane\n\n**Layer the design from back to front:**\n• Tall shade trees as the canopy anchors\n• Philodendron or ginger under and around trees for lushness\n• Ferns filling shaded edges and low borders\n• Camellia or azalea shrubs near entry paths or seating alcoves for flower interest\n\n**Add optional hardscape elements such as:**\n– A hammock strung between trees or posts\n– Mulched seating alcove with rustic bench\n– Stone or paver stepping path leading into the shade\n\n**Adapt based on site conditions:**\n• In smaller yards, substitute live oak with dwarf magnolia or ornamental redbud\n• In heavily shaded yards, maximize ferns and philodendrons\n• In semi-sunny yards, incorporate more flowering shrubs for balance\n\nMaintain the **calm, shaded, and restful retreat character** throughout — perfect for relaxation and a sense of cool refuge in Florida's heat.\n\nOnly include plants suited for **USDA Zones 9–11 and Florida's hot, humid climate**.\n\nMost importantly, please keep the house and structure the exact same. only the above changes to the front yard and landscape areas.",
+      "type": "Landscaping",
+      "city": "Florida"
+    }
+  ]
+}

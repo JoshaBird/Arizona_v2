@@ -1,0 +1,51 @@
+{
+  "exportedAt": "2025-10-02T16:49:21.535Z",
+  "tables": {
+    "prompt_templates": {
+      "description": "AI prompt templates for different project types",
+      "columns": {
+        "id": "Primary key",
+        "name": "Template name",
+        "one_line": "Short description",
+        "prompt_text": "Full AI prompt",
+        "type": "Template category",
+        "created_at": "Creation timestamp"
+      }
+    },
+    "submissions": {
+      "description": "User submissions and project data",
+      "columns": {
+        "id": "Primary key (UUID)",
+        "name": "User name",
+        "email": "User email",
+        "phone": "User phone",
+        "address": "Project address",
+        "prompt": "Combined AI prompt",
+        "original_image_storage_url": "Original image URL",
+        "result_image_storage_url": "Generated result image URL",
+        "created_at": "Creation timestamp"
+      }
+    }
+  },
+  "enums": {
+    "key_type": [
+      "openai",
+      "googlemaps"
+    ],
+    "Type": [
+      "Landscaping",
+      "Fencing",
+      "Paint"
+    ]
+  },
+  "storage_buckets": {
+    "user-images": "Stores uploaded user images and generated results"
+  },
+  "edge_functions": {
+    "edit-image": "Calls OpenAI API to transform images",
+    "street-view": "Fetches Google Street View images",
+    "get-maps-key": "Securely provides Google Maps API key",
+    "send-visualizer-quote": "Sends quote request emails",
+    "send-contact-email": "Handles general contact form"
+  }
+}

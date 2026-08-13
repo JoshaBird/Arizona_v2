@@ -1,0 +1,22 @@
+{
+  "function": "send-contact-email",
+  "testedAt": "2025-10-02T16:49:18.499Z",
+  "testData": {
+    "firstName": "Test",
+    "lastName": "User",
+    "email": "test@example.com",
+    "phone": "555-1234",
+    "service": "Landscaping",
+    "message": "Test message"
+  },
+  "response": {
+    "success": true,
+    "data": {
+      "data": {
+        "id": "6a18cffc-4305-4d69-b8e3-e817d132dff5"
+      },
+      "error": null
+    }
+  },
+  "error": null
+}

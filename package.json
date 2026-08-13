@@ -1,0 +1,58 @@
+{
+  "name": "oak-iron-work",
+  "version": "0.1.0",
+  "private": true,
+  "engines": {
+    "node": ">=20.9.0"
+  },
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint .",
+    "setup": "node scripts/auto-setup.js && npm run dev",
+    "setup:db": "node scripts/auto-setup.js"
+  },
+  "dependencies": {
+    "@radix-ui/react-dialog": "^1.0.5",
+    "@radix-ui/react-label": "^2.0.2",
+    "@radix-ui/react-separator": "^1.0.3",
+    "@radix-ui/react-slot": "^1.0.2",
+    "@radix-ui/react-switch": "^1.0.3",
+    "@radix-ui/react-toast": "^1.1.5",
+    "@radix-ui/react-tooltip": "^1.0.7",
+    "@react-email/render": "^2.1.0",
+    "@supabase/supabase-js": "^2.39.3",
+    "@tanstack/react-query": "^5.14.2",
+    "@types/mongodb": "^4.0.6",
+    "@types/pg": "^8.15.5",
+    "class-variance-authority": "^0.7.0",
+    "clsx": "^2.0.0",
+    "dotenv": "^17.2.3",
+    "lucide-react": "^0.469.0",
+    "mongodb": "^6.20.0",
+    "next": "16.2.12",
+    "next-themes": "^0.4.6",
+    "openai": "^6.2.0",
+    "pg": "^8.16.3",
+    "react": "19.2.8",
+    "react-dom": "19.2.8",
+    "react-hook-form": "^7.63.0",
+    "resend": "^6.1.2",
+    "sharp": "^0.34.4",
+    "sonner": "^2.0.0",
+    "tailwind-merge": "^2.2.0",
+    "tailwindcss-animate": "^1.0.7"
+  },
+  "devDependencies": {
+    "@types/node": "^22",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "autoprefixer": "^10.0.1",
+    "eslint": "^9",
+    "eslint-config-next": "16.2.12",
+    "postcss": "^8",
+    "tailwindcss": "^3.3.0",
+    "typescript": "^5"
+  }
+}

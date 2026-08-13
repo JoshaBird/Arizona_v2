@@ -1,0 +1,59 @@
+{
+  "exportInfo": {
+    "exportedAt": "2025-10-02T16:49:21.536Z",
+    "supabaseUrl": "https://knlvxeujgojelrhoekia.supabase.co",
+    "totalTables": 2,
+    "totalStorageBuckets": 1,
+    "totalEdgeFunctions": 0,
+    "totalRecords": 59,
+    "totalFiles": 111
+  },
+  "exports": {
+    "prompt_templates": {
+      "status": "success",
+      "recordCount": 6,
+      "exportedAt": "2025-10-02T16:49:12.892Z"
+    },
+    "submissions": {
+      "status": "success",
+      "recordCount": 53,
+      "exportedAt": "2025-10-02T16:49:13.805Z"
+    },
+    "storage_user_images": {
+      "status": "success",
+      "recordCount": 111,
+      "exportedAt": "2025-10-02T16:49:15.430Z"
+    },
+    "edge_function_get_maps_key": {
+      "status": "success",
+      "recordCount": 0
+    },
+    "edge_function_street_view": {
+      "status": "success",
+      "recordCount": 0
+    },
+    "edge_function_edit_image": {
+      "status": "success",
+      "recordCount": 0
+    },
+    "edge_function_send_visualizer_quote": {
+      "status": "success",
+      "recordCount": 0
+    },
+    "edge_function_send_contact_email": {
+      "status": "success",
+      "recordCount": 0
+    },
+    "openai_data": {
+      "status": "success",
+      "recordCount": 0,
+      "exportedAt": "2025-10-02T16:49:21.533Z"
+    },
+    "database_schema": {
+      "status": "success",
+      "recordCount": 0,
+      "exportedAt": "2025-10-02T16:49:21.535Z"
+    }
+  },
+  "errors": []
+}
