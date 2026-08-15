@@ -43,3 +43,6 @@ next-env.d.ts
 # local data files
 data/submissions.json
 supabase-data-export/edge-function-get-maps-key-test.json
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
